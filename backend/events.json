@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"rr","image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPw5zkyAZ3Gw/v1/-1x-1.jpg","date":"2023-03-06","description":"rrrr","id":"73ed5710-a3f8-4a56-b586-65dbac7eb248"},{"title":"test","image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPw5zkyAZ3Gw/v1/-1x-1.jpg","date":"2023-03-23","description":"eeee","id":"072ed645-a823-44df-ad78-e49dfe54c6da"},{"title":"tester ","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs5MsNsOXglqk48pvfpmUiM6n_7o2YgdD0A&usqp=CAU","date":"2023-03-28","description":"tester image","id":"ba838a07-cb3d-4bf5-9161-894ea498ea57"},{"title":"Oktober fest!","image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPw5zkyAZ3Gw/v1/-1x-1.jpg","date":"2023-10-01","description":"Beer time!","id":"27d5d5c2-51c0-413d-97c5-0ba449820aa4"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
