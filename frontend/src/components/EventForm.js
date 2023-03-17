@@ -85,7 +85,6 @@ export default EventForm;
 
 export async function action({ request, params }) {
   const method = request.method;
-  console.log(request);
   const data = await request.formData();
 
   const eventData = {
@@ -115,7 +114,7 @@ export async function action({ request, params }) {
   }
 
   if (!response.ok) {
-    throw json({ message: "Could no save event." }, { status: 500 });
+    throw json({ message: "Could not save event." }, { status: 500 });
   }
 
   return redirect("/events");
